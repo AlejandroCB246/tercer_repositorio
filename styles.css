@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+    font-style: italic;
+    color: brown;
+}
+
+p{
+    font-size: 80px;
+    color: skyblue;
+    background-color: bisque;
+    text-align: center;
+}
